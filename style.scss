@@ -101,6 +101,26 @@
                 background: url('./images/bg1.jpg') no-repeat top center/cover;
             }
 
+            &.header__two{
+                background: url('./images/bg2.jpg') no-repeat top center/cover;
+            }
+
+            &.header__three{
+                background: url('./images/bg3.jpg') no-repeat top center/cover;
+            }
+
+            &.header__four{
+                background: url('./images/bg4.jpg') no-repeat top center/cover;
+            }
+
+            &.header__five{
+                background: url('./images/bg5.jpg') no-repeat top center/cover;
+            }
+
+            &.header__six{
+                background: url('./images/bg6.jpg') no-repeat top center/cover;
+            }
+
             .header{
                 position: absolute;
                 width: 100%;
@@ -173,7 +193,7 @@
         a{
             text-decoration: none;
             color: #eee;
-            padding: .07rem 0;
+            padding: .4rem 0;
             font-size: 1rem;
             display: inline-block;
             font-weight: 300;
